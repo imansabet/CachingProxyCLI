@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CachingProxy\CachingProxy\bin\Debug\net9.0\CachingProxy.exe
+C:\Users\Administrator\Desktop\CachingProxy\CachingProxy\bin\Debug\net9.0\CachingProxy.deps.json
+C:\Users\Administrator\Desktop\CachingProxy\CachingProxy\bin\Debug\net9.0\CachingProxy.runtimeconfig.json
+C:\Users\Administrator\Desktop\CachingProxy\CachingProxy\bin\Debug\net9.0\CachingProxy.dll
+C:\Users\Administrator\Desktop\CachingProxy\CachingProxy\bin\Debug\net9.0\CachingProxy.pdb
+C:\Users\Administrator\Desktop\CachingProxy\CachingProxy\obj\Debug\net9.0\CachingProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CachingProxy\CachingProxy\obj\Debug\net9.0\CachingProxy.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CachingProxy\CachingProxy\obj\Debug\net9.0\CachingProxy.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CachingProxy\CachingProxy\obj\Debug\net9.0\CachingProxy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CachingProxy\CachingProxy\obj\Debug\net9.0\CachingProxy.dll
+C:\Users\Administrator\Desktop\CachingProxy\CachingProxy\obj\Debug\net9.0\refint\CachingProxy.dll
+C:\Users\Administrator\Desktop\CachingProxy\CachingProxy\obj\Debug\net9.0\CachingProxy.pdb
+C:\Users\Administrator\Desktop\CachingProxy\CachingProxy\obj\Debug\net9.0\CachingProxy.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CachingProxy\CachingProxy\obj\Debug\net9.0\ref\CachingProxy.dll
